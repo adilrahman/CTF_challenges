@@ -1,0 +1,9 @@
+12.STRING
+
+it's a compiled c file. can you find the flag from this?
+
+download : https://bit.ly/3bRdNVk
+
+hint : 
+    You can actually see the used strings in a program from a compiled file
+format :- enigma{s_____ ___e 0__}

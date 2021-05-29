@@ -1,0 +1,11 @@
+#!/bin/bash
+
+prev=$1
+
+for i in {1..50};
+do
+	name=$RANDOM.$RANDOM.$RANDOM.zip
+	tar -cf $name $prev
+	prev=$name
+done
+echo $name

@@ -1,0 +1,14 @@
+15.needle in the haystack
+
+You can download a folder from the given link and it contains a bunch of folders and files as well.
+
+The file contains a bunch of words and the flag is in one of the files. Can you find it?
+
+flag pattern :- enigma{flag}
+
+download : https://bit.ly/3wxcNh5
+
+hint :- regex
+
+format :- enigma{J___ _____'_ ____e ___d!}
+
